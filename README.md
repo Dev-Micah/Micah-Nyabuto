@@ -6,7 +6,7 @@ A lightweight, single-page portfolio made with plain HTML, CSS and JavaScript.
 
 - **CV PDF:** save your PDF as `assets/Micah-Nyabuto-CV.pdf`. The Download CV button already points there.
 - **Photo:** save a portrait as `assets/micah-nyabuto.jpg`. The initials placeholder will be replaced automatically when the image is present.
-- **Confirm before publishing:** add employment dates and confirm the role order; verify which administrative, office, reporting and communication skills you want to claim; confirm whether your phone number is on WhatsApp; and add a LinkedIn URL if you want one.
+- **Before publishing:** add employment dates and check the role order; check WhatsApp availability for your number; and add a LinkedIn URL if you want one.
 - **Sample work:** create your own sales tracker, weekly report or presentation, then replace the placeholder descriptions in the Projects section with links to those files. Do not link private or client-confidential material.
 - **Project links:** the CV contains a store link for CoinSphere and a GitHub profile link for Heron. Add direct repository/project links if you have them.
 
